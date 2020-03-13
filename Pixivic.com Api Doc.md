@@ -499,7 +499,8 @@
 > 参照返回示例
 
 ###### 接口示例
-> 地址：https://api.pixivic.com/ranks?page=1&date=2019-10-10&mode=week&page=2&pageSize=1获取成功(200)
+> 地址：https://api.pixivic.com/ranks?page=1&date=2019-10-10&mode=week&page=2&pageSize=1
+> 获取成功(200)
 ``` javascript
 {
   "message": "获取排行成功",
