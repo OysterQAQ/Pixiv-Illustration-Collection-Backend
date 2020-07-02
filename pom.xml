@@ -22,7 +22,7 @@
         <java.version>12</java.version>
         <lombok.version>1.18.8</lombok.version>
         <jjwt.version>0.10.7</jjwt.version>
-        <mysql.version>8.0.15</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <maven.complie.version>3.7.0</maven.complie.version>
         <velocity.version>2.1</velocity.version>
         <common.lang3.version>3.8.1</common.lang3.version>
