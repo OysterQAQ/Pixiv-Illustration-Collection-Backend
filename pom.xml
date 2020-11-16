@@ -39,7 +39,7 @@
         <rabbitmq.version>5.8.0</rabbitmq.version>
         <retrofit.version>2.8.1</retrofit.version>
         <sshj.version>0.29.0</sshj.version>
-        <xstream.version>1.4.12</xstream.version>
+        <xstream.version>1.4.13-java7</xstream.version>
         <librec-core.version>2.0.0</librec-core.version>
         <mahout-mr.version>0.13.0</mahout-mr.version>
         <wechat-sdk.version>3.8.0</wechat-sdk.version>
